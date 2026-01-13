@@ -1,0 +1,7 @@
+{
+  "name": "Atmosphere AI",
+  "description": "A sophisticated weather and time dashboard with AI-powered personal advice based on your local conditions.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
